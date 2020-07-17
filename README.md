@@ -1,4 +1,9 @@
-### Hi there 👋
+### klyhyeon
+> Java 백엔드 개발자를 목표로 프로그래밍 공부중 2020.6 ~ 
+- [ ] JSP
+- [X] Java 기초
+- [x] linux 기초
+- [ ] 개인 프로젝트 제작
 
 <!--
 **klyhyeon/klyhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
