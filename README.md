@@ -1,4 +1,4 @@
-### klyhyeon
+### klyhyeon :rocket:
 > Java 백엔드 개발자를 목표로 프로그래밍 공부중 2020.6 ~ 
 - [ ] JSP
 - [X] Java 기초
