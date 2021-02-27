@@ -5,8 +5,7 @@
 - [x] linux 기초
 - 개인 프로젝트
   - Web
-    - Spring boot 기반 채팅 기능을 포함한 중고거래 웹사이트
-    [a link] (https://github.com/klyhyeon/salle.git)
+    - [Spring boot 기반 채팅 기능을 포함한 중고거래 웹사이트](https://github.com/klyhyeon/salle.git)
 
 <!--
 **klyhyeon/klyhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
