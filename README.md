@@ -1,8 +1,8 @@
 ### klyhyeon :rocket:
-> Java 백엔드 개발자를 목표로 프로그래밍 공부중 2020.6 ~ 
+> 백엔드 개발자 백호
 - [X] Java
 - [X] Spring/Spring boot
-- [x] linux 기초
+- [ ] Vue.js
 - 개인 프로젝트
   - Web
     - [Spring boot 기반 채팅 기능을 포함한 중고거래 웹사이트](https://github.com/klyhyeon/salle.git)
