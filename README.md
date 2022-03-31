@@ -2,6 +2,8 @@
 > 백엔드 개발자 백호
 - [X] Java
 - [X] Spring/Spring boot
+- [X] JPA
+- [X] AWS Cloudwatch, EC2, RDS
 - [ ] Vue.js
 - 개인 프로젝트
   - Web
