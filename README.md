@@ -4,7 +4,7 @@
 - [X] Spring/Spring boot
 - [X] JPA
 - [X] AWS Cloudwatch, EC2, RDS
-- [ ] Vue.js
+- [X] Vue.js 기초
 - 개인 프로젝트
   - Web
     - [Spring boot 기반 채팅 기능을 포함한 중고거래 웹사이트](https://github.com/klyhyeon/salle.git)
