@@ -8,6 +8,8 @@
 - 개인 프로젝트
   - Web
     - [Spring boot 기반 채팅 기능을 포함한 중고거래 웹사이트](https://github.com/klyhyeon/salle.git)
+  - JPA
+    - [표준 OPM JPA 연습 프로젝트 생성](https://github.com/klyhyeon/shop/tree/yuhyeon)
 
 <!--
 **klyhyeon/klyhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
